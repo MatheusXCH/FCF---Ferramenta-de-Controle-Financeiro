@@ -1,4 +1,4 @@
-# FCF Ferramenta de Controle Financeiro (Financial Control Tool)
+# FCF - Ferramenta de Controle Financeiro (Financial Control Tool)
 ## Versão: v.001
 ## @Matheus Xavier
 ## PT-BR
